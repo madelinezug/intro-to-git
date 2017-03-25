@@ -55,4 +55,4 @@ There are many different ways to do this, and this is just one of the ways!
 6. Establish a connection between this directory and your GitHub repository: `$ git remote add origin URL`, where `URL` is the one you copied in step 1
 7. Verify the connection `$ git remote -v`. Both `fetch` and `push` should have the URL by it
 
-If you make changes to this project, see the section [Modifying the project and putting the changes onto GitHub](###Modifying the project and putting the changes onto GitHub) on how to push these changes onto its corresponding GitHub repository.
+If you make changes to this project, see the section "Modifying the project and putting the changes onto GitHub" on how to push these changes onto its corresponding GitHub repository.
